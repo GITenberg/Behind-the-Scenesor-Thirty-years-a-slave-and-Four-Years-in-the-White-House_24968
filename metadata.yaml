@@ -1,0 +1,37 @@
+_repo: Behind-the-Scenesor-Thirty-years-a-slave-and-Four-Years-in-the-White-House_24968
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keckley, Elizabeth
+    alias: Keckly, Elizabeth
+    birthdate: 1818
+    deathdate: 1907
+    gutenberg_agent_id: '26847'
+    url: http://www.gutenberg.org/2009/agents/26847
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Keckly
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2008-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcc 'CT'
+- !lcc 'E456'
+- !lcsh 'Keckley, Elizabeth, approximately 1818-1907'
+- !lcsh 'Women slaves -- United States -- Biography'
+- !lcsh 'African American women -- Biography'
+- !lcsh 'Lincoln, Mary Todd, 1818-1882'
+- !lcsh 'Slavery -- United States'
+title: 'Behind the Scenes
+
+  or, Thirty years a slave, and Four Years in the White House'
+url: http://www.gutenberg.org/ebooks/24968
