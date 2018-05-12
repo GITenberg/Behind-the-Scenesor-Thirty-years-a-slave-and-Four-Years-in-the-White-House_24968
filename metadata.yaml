@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26847
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Keckly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24968#Behind-the-Scenesor-Thirty-years-a-slave-and-Four-Years-in-the-White-House
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2008-03-31'
 gutenberg_type: Text
